@@ -1,3 +1,8 @@
+# Co - Alert 😷
+### One stop solution to get alert about vaccination slots, download your certificate and many more.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
